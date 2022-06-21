@@ -1,0 +1,15 @@
+.main{
+    display: flex;
+    margin: 10px;
+}
+.main div{
+    margin: 20px;
+}
+
+.normal ,.vowels{
+
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;
+    border-radius:10px;
+}
